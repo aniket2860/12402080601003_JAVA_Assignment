@@ -1,6 +1,6 @@
 > I hereby declare that this assignment is my original work.
 # Java Programming Assignment
-**Programming with Java - Assignment Submission
+**Programming with Java - Assignment Submission**
 
 **Name:** Parmar Aniket Ashvinkumar  
 **Enrollment Number:** 12402080601003  
