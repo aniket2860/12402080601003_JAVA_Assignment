@@ -112,25 +112,3 @@
 
 ---
 
-## 📁 Folder Structure
-
-Assignment-1/
-Program1.java
-Program2.java
-Program3.java
-Program4.java
-Program5.java
-Program6.java
-Program7.java
-Program8.java
-
-Assignment-2/
-BookSort.java
-CRUDCollection.java
-DisplayFiles.java
-EchoClient.java
-EchoServer.java
-InvestmentCalculator.java
-Primenumber.java
-ProducerConsumer.java
-WordCount.java
