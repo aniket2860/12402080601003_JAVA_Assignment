@@ -35,4 +35,102 @@
 
 ---
 
+## 📁 Folder Stru# Java Programming Assignment
+
+> I hereby declare that this assignment is my original work.
+
+**Student Name:** Parmar Aniket Ashvinkumar  
+**Enrollment Number:** 12402080601003  
+**Course:** Java Programming  
+**Semester:** 4  
+
+---
+
+## Assignment 1
+
+1. Program1.java  
+2. Program2.java  
+3. Program3.java  
+4. Program4.java  
+5. Program5.java  
+6. Program6.java  
+7. Program7.java  
+8. Program8.java  
+
+---
+
+## Assignment 2
+
+1. BookSort.java  
+2. CRUDCollection.java  
+3. DisplayFiles.java  
+4. EchoClient.java  
+5. EchoServer.java  
+6. InvestmentCalculator.java  
+7. Primenumber.java  
+8. ProducerConsumer.java  
+9. WordCount.java  
+
+---
+
 ## 📁 Folder Structure
+# Java Programming Assignment
+
+> I hereby declare that this assignment is my original work.
+
+**Student Name:** Parmar Aniket Ashvinkumar  
+**Enrollment Number:** 12402080601003  
+**Course:** Java Programming  
+**Semester:** 4  
+
+---
+
+## Assignment 1
+
+1. Program1.java  
+2. Program2.java  
+3. Program3.java  
+4. Program4.java  
+5. Program5.java  
+6. Program6.java  
+7. Program7.java  
+8. Program8.java  
+
+---
+
+## Assignment 2
+
+1. BookSort.java  
+2. CRUDCollection.java  
+3. DisplayFiles.java  
+4. EchoClient.java  
+5. EchoServer.java  
+6. InvestmentCalculator.java  
+7. Primenumber.java  
+8. ProducerConsumer.java  
+9. WordCount.java  
+
+---
+
+## 📁 Folder Structure
+
+Assignment-1/
+Program1.java
+Program2.java
+Program3.java
+Program4.java
+Program5.java
+Program6.java
+Program7.java
+Program8.java
+
+Assignment-2/
+BookSort.java
+CRUDCollection.java
+DisplayFiles.java
+EchoClient.java
+EchoServer.java
+InvestmentCalculator.java
+Primenumber.java
+ProducerConsumer.java
+WordCount.java
