@@ -2,7 +2,7 @@
 # Java Programming Assignment
 **Programming with Java - Assignment Submission
 
-** Name:** Parmar Aniket Ashvinkumar  
+**Name:** Parmar Aniket Ashvinkumar  
 **Enrollment Number:** 12402080601003  
 **Course:** Java Programming  
 **Semester:** 4  
